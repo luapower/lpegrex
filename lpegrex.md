@@ -1,5 +1,7 @@
 # LPegRex
 
+NOTE: this is a fork. The project homepage is here: https://github.com/edubart/lpegrex
+
 LPegRex is a re-implementation of
 [LPeg](http://www.inf.puc-rio.br/~roberto/lpeg/)/
 [LPegLabel](https://github.com/sqmedeiros/lpeglabel)
